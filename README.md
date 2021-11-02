@@ -17,3 +17,5 @@ Minor issues with my implementation:
 -No naming of timers means that if the user forgets what they mean there can be issues
 -If 'highlighting' text on the alarm it may fail to 'ring' until the user presses escape
 -Can't schedule for the next day?
+
+Created March 2018
